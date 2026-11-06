@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\laptop\\source\\repos\\KASINO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A8BC70B0-D385-49C9-8FFB-9FA0AB20BD66}|KASINO\\KASINO.pyproj|C:\\Users\\laptop\\source\\repos\\KASINO\\KASINO\\KASINO.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A8BC70B0-D385-49C9-8FFB-9FA0AB20BD66}|KASINO\\KASINO.pyproj|solutionrelative:KASINO\\KASINO.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{be4d7042-ba3f-11d2-840e-00c04f9902c1}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "KASINO.py",
+              "DocumentMoniker": "C:\\Users\\laptop\\source\\repos\\KASINO\\KASINO\\KASINO.py",
+              "RelativeDocumentMoniker": "KASINO\\KASINO.py",
+              "ToolTip": "C:\\Users\\laptop\\source\\repos\\KASINO\\KASINO\\KASINO.py",
+              "RelativeToolTip": "KASINO\\KASINO.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-11-06T10:17:53.262Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
